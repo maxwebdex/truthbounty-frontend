@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "security/issue-595-ui-fe-025-build-operational-health-and-release",
+    "security/issue-645-ui-fe-072-add-evidence-upload-preflight-and"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "security/issue-595-ui-fe-025-build-operational-health-and-release": "main",
+    "security/issue-645-ui-fe-072-add-evidence-upload-preflight-and": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "security/issue-595-ui-fe-025-build-operational-health-and-release",
+    "security/issue-645-ui-fe-072-add-evidence-upload-preflight-and"
+  ]
+}
